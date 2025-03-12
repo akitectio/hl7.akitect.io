@@ -6,7 +6,7 @@ icon: rectangle-history
 
 ## Lịch sử phát triển FHIR đến R5: Hành trình của một tiêu chuẩn đột phá
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 FHIR (Fast Healthcare Interoperability Resources) đã trải qua một hành trình phát triển đáng kinh ngạc kể từ khi ra đời. Bài viết này sẽ đưa bạn qua quá trình tiến hóa của FHIR từ những ngày đầu cho đến phiên bản R5 hiện tại, đồng thời nhìn về tương lai của tiêu chuẩn này.
 
@@ -79,7 +79,7 @@ R5 được phát hành vào tháng 3/2023, đánh dấu sự trưởng thành �
 
 ### Roadmap tương lai sau R5
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Sau R5, cộng đồng FHIR đã vạch ra một lộ trình phát triển đầy tham vọng:
 

@@ -18,3 +18,4 @@
 ***
 
 * [HTTP & FHIR REST API](http-and-fhir-rest-api.md)
+* [Content Negotiation FHIR](content-negotiation-fhir.md)
