@@ -4,7 +4,7 @@ icon: webhook
 
 # Content Negotiation FHIR
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Content Negotiation for FHIR</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Content Negotiation for FHIR</p></figcaption></figure>
 
 Content Negotiation là một khía cạnh quan trọng của FHIR (Fast Healthcare Interoperability Resources), cho phép clients và servers thỏa thuận về định dạng nội dung tốt nhất để trao đổi. Trong bài viết này, chúng ta sẽ khám phá chi tiết về content negotiation trong FHIR, bao gồm các định dạng, MIME types, và cách kiểm soát phiên bản thông qua content negotiation.
 

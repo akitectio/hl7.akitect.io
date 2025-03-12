@@ -1,8 +1,21 @@
 ---
 icon: brain-circuit
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # FHIR R5 Resource Classification
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>FHIR R5 Resource Classification</p></figcaption></figure>
 
 FHIR (Fast Healthcare Interoperability Resources) là tiêu chuẩn hiện đại nhất cho việc trao đổi dữ liệu y tế điện tử. Với phiên bản R5, FHIR đã mở rộng và hoàn thiện hơn với nhiều loại tài nguyên giúp mô hình hóa hầu hết các khía cạnh của hệ thống y tế. Bài viết này sẽ giúp bạn hiểu rõ cách phân loại các tài nguyên FHIR R5 cùng với ví dụ cụ thể cho mỗi loại.
 

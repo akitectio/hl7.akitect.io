@@ -6,7 +6,7 @@ icon: head-side-goggles
 
 FHIR (Fast Healthcare Interoperability Resources) là một tiêu chuẩn được phát triển bởi HL7 nhằm tạo điều kiện thuận lợi cho việc trao đổi dữ liệu y tế giữa các hệ thống khác nhau. Phiên bản R5 là bản cập nhật mới nhất, mang đến nhiều cải tiến quan trọng. Bài viết này sẽ giải thích chi tiết về mô hình tài nguyên trong FHIR R5 cùng với các ví dụ minh họa.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Mô hình tài nguyên FHIR R5: Cấu trúc và Ứng dụng</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Mô hình tài nguyên FHIR R5: Cấu trúc và Ứng dụng</p></figcaption></figure>
 
 ### 1. Resource và DomainResource
 

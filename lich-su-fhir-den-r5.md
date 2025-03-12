@@ -79,7 +79,7 @@ R5 được phát hành vào tháng 3/2023, đánh dấu sự trưởng thành �
 
 ### Roadmap tương lai sau R5
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Sau R5, cộng đồng FHIR đã vạch ra một lộ trình phát triển đầy tham vọng:
 
