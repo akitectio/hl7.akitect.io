@@ -1,8 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [Introduction to HL7](introduction-to-hl7.md)
 
-## Làm quen với HL7 v2.x&#x20;
+## Introduction to HL7 R5
 
-* [Message in HL7 v2.x](lam-quen-voi-hl7-v2.x/integrations.md)
+* [Tổng quan về FHIR R5](introduction-to-hl7-r5/tong-quan-ve-fhir-r5.md)
