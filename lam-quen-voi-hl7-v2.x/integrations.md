@@ -1,14 +1,11 @@
 ---
+description: >-
+  Tin nhắn HL7 v2.x được xây dựng theo một cấu trúc phân cấp nghiêm ngặt với 5
+  cấp độ. Hiểu được cấu trúc này là nền tảng để làm việc hiệu quả với HL7.
 icon: messages
 ---
 
 # Message in HL7 v2.x
-
-## Cấu trúc chi tiết tin nhắn HL7 v2.x
-
-### Cấu trúc phân cấp của tin nhắn HL7 v2.x
-
-Tin nhắn HL7 v2.x được xây dựng theo một cấu trúc phân cấp nghiêm ngặt với 5 cấp độ. Hiểu được cấu trúc này là nền tảng để làm việc hiệu quả với HL7.
 
 #### 1. Message (Tin nhắn)
 

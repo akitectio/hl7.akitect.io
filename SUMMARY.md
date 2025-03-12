@@ -5,4 +5,4 @@
 
 ## Làm quen với HL7 v2.x&#x20;
 
-* [Message in HL7 v2.x](lam-quen-voi-hl7-v2.x/message-in-hl7-v2.x.md)
+* [Message in HL7 v2.x](lam-quen-voi-hl7-v2.x/integrations.md)
