@@ -23,3 +23,7 @@
 ## 👨‍💼 FHIR Resource Model and Architecture
 
 * [FHIR R5 Model Resources](fhir-resource-model-and-architecture/fhir-r5-model-resources.md)
+
+***
+
+* [FHIR R5 Resource Classification](fhir-r5-resource-classification.md)
