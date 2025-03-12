@@ -19,3 +19,7 @@
 
 * [HTTP & FHIR REST API](http-and-fhir-rest-api.md)
 * [Content Negotiation FHIR](content-negotiation-fhir.md)
+
+## 👨‍💼 FHIR Resource Model and Architecture
+
+* [FHIR R5 Model Resources](fhir-resource-model-and-architecture/fhir-r5-model-resources.md)

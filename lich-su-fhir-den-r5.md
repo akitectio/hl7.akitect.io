@@ -6,7 +6,7 @@ icon: rectangle-history
 
 ## Lịch sử phát triển FHIR đến R5: Hành trình của một tiêu chuẩn đột phá
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 FHIR (Fast Healthcare Interoperability Resources) đã trải qua một hành trình phát triển đáng kinh ngạc kể từ khi ra đời. Bài viết này sẽ đưa bạn qua quá trình tiến hóa của FHIR từ những ngày đầu cho đến phiên bản R5 hiện tại, đồng thời nhìn về tương lai của tiêu chuẩn này.
 
@@ -108,7 +108,7 @@ Sau R5, cộng đồng FHIR đã vạch ra một lộ trình phát triển đầ
 
 ### Các phần Normative trong R5
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>Đây là danh sách không đầy đủ của một số tài nguyên quan trọng</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Đây là danh sách không đầy đủ của một số tài nguyên quan trọng</p></figcaption></figure>
 
 R5 đã mở rộng đáng kể phạm vi Normative, củng cố vị thế của FHIR là tiêu chuẩn ổn định và đáng tin cậy:
 
