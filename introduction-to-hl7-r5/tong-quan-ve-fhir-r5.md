@@ -7,7 +7,7 @@ icon: circle-info
 
 # Tổng quan về FHIR R5
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 **FHIR** (Fast Healthcare Interoperability Resources) là tiêu chuẩn trao đổi dữ liệu y tế thế hệ mới được phát triển bởi HL7 International. FHIR được thiết kế để giải quyết các vấn đề tương tác giữa các hệ thống thông tin y tế, giúp dữ liệu y tế có thể được chia sẻ dễ dàng và an toàn.
 
