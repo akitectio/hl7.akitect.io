@@ -60,7 +60,7 @@
 * [Specialized Resources](specialized-resources.md)
 * [Infrastructure Resources](infrastructure-resources.md)
 
-## FHIR R5 Profiling & Validation
+## 🎎 FHIR R5 Profiling & Validation
 
 * [Conformance Resources in R5](fhir-r5-profiling-and-validation/conformance-resources-in-r5.md)
 
@@ -70,3 +70,7 @@
 * [FHIRPath & FluentPath FHIR R5](fhirpath-and-fluentpath-fhir-r5.md)
 * [Validation in FHIR R5](validation-in-fhir-r5.md)
 * [Implementation Guides in R5](implementation-guides-in-r5.md)
+
+## 🤦‍♂️ FHIR R5 Operations & Messaging
+
+* [Operations R5 Updates](fhir-r5-operations-and-messaging/operations-r5-updates.md)
