@@ -53,3 +53,7 @@
 ## 🛏️ Deep Dive into Resource FHIR R5
 
 * [Clinical Resources in R5](deep-dive-into-resource-fhir-r5/clinical-resources-in-r5.md)
+
+***
+
+* [Administrative Resources](administrative-resources.md)
