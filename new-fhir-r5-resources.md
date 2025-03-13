@@ -4,7 +4,7 @@ icon: sparkles
 
 # New FHIR R5 Resources
 
-
+<figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption><p>New FHIR R5 Resources</p></figcaption></figure>
 
 Trong bài viết này, chúng ta sẽ đi sâu vào các tài nguyên mới của FHIR R5, phân tích cấu trúc, cách sử dụng và ví dụ cụ thể cho từng tài nguyên. Bài viết hướng tới các nhà phát triển và kiến trúc sư giải pháp đang làm việc với hệ thống thông tin y tế và mong muốn cập nhật kiến thức về những cải tiến mới nhất trong tiêu chuẩn FHIR.
 
