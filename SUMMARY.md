@@ -59,3 +59,7 @@
 * [Administrative Resources](administrative-resources.md)
 * [Specialized Resources](specialized-resources.md)
 * [Infrastructure Resources](infrastructure-resources.md)
+
+## FHIR R5 Profiling & Validation
+
+* [Conformance Resources in R5](fhir-r5-profiling-and-validation/conformance-resources-in-r5.md)
