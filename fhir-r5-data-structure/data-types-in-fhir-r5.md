@@ -1,3 +1,7 @@
+---
+icon: database
+---
+
 # Data Types In FHIR R5
 
 Nếu bạn đã làm việc với các phiên bản FHIR trước đây, bạn sẽ thấy R5 mang đến nhiều cải tiến đáng kể. Còn nếu bạn mới làm quen với FHIR, đây là thời điểm tuyệt vời để bắt đầu với phiên bản mới nhất và đầy đủ nhất.
