@@ -1,3 +1,7 @@
+---
+icon: wrench
+---
+
 # Operations R5 Updates
 
 Operations trong FHIR là các phương thức mở rộng ngoài CRUD chuẩn (Create, Read, Update, Delete), cho phép thực hiện các hành động phức tạp hơn trên tài nguyên FHIR. Với phiên bản R5, FHIR đã đưa ra nhiều cải tiến quan trọng giúp tăng cường khả năng, tính linh hoạt và hiệu quả của các operations.
