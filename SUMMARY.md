@@ -49,3 +49,7 @@
 * [Extensions & ElementDefinition](extensions-and-elementdefinition.md)
 * [Metadata & Control Elements](metadata-and-control-elements.md)
 * [Narrative & Text](narrative-and-text.md)
+
+## 🛏️ Deep Dive into Resource FHIR R5
+
+* [Clinical Resources in R5](deep-dive-into-resource-fhir-r5/clinical-resources-in-r5.md)
