@@ -78,3 +78,4 @@
 ***
 
 * [FHIR Messaging in R5](fhir-messaging-in-r5.md)
+* [Event-based Communication In FHIR R5](event-based-communication-in-fhir-r5.md)
