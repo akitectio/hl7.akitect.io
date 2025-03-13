@@ -63,3 +63,7 @@
 ## FHIR R5 Profiling & Validation
 
 * [Conformance Resources in R5](fhir-r5-profiling-and-validation/conformance-resources-in-r5.md)
+
+***
+
+* [Creating & Use FHIR R5 Profiles](creating-and-use-fhir-r5-profiles.md)
