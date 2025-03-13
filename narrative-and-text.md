@@ -1,3 +1,7 @@
+---
+icon: text-height
+---
+
 # Narrative & Text
 
 ## Narrative và Text trong FHIR R5: Hiển thị dữ liệu y tế hiệu quả
