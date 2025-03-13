@@ -57,3 +57,5 @@
 ***
 
 * [Administrative Resources](administrative-resources.md)
+* [Specialized Resources](specialized-resources.md)
+* [Infrastructure Resources](infrastructure-resources.md)
