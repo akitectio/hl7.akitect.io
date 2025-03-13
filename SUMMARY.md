@@ -38,3 +38,4 @@
 
 * [Search](search.md)
 * [Bundles & Transactions](bundles-and-transactions.md)
+* [Operations in FHIR R5](operations-in-fhir-r5.md)
