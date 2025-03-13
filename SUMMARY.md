@@ -29,3 +29,7 @@
 * [FHIR R5 Resource Classification](fhir-r5-resource-classification.md)
 * [New FHIR R5 Resources](new-fhir-r5-resources.md)
 * [Exporing FHIR R5 Servers](exporing-fhir-r5-servers.md)
+
+## 🏓 FHIR R5 Search & CRUD
+
+* [CRUD Operations](fhir-r5-search-and-crud/crud-operations.md)
