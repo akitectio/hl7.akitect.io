@@ -69,3 +69,4 @@
 * [Creating & Use FHIR R5 Profiles](creating-and-use-fhir-r5-profiles.md)
 * [FHIRPath & FluentPath FHIR R5](fhirpath-and-fluentpath-fhir-r5.md)
 * [Validation in FHIR R5](validation-in-fhir-r5.md)
+* [Implementation Guides in R5](implementation-guides-in-r5.md)
