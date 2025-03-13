@@ -1,12 +1,8 @@
-# Bundles \&Transactions
+---
+icon: brain-circuit
+---
 
-## Bundles và Transactions trong FHIR R5: Xử lý nhiều tài nguyên cùng lúc
-
-_FHIR (Fast Healthcare Interoperability Resources) cho phép các hệ thống y tế trao đổi dữ liệu một cách hiệu quả. Một trong những tính năng mạnh mẽ nhất của FHIR là khả năng xử lý nhiều tài nguyên cùng lúc thông qua Bundles và Transactions. Trong bài viết này, chúng ta sẽ khám phá chi tiết về cách sử dụng Bundles và Transactions trong FHIR R5 - phiên bản mới nhất của tiêu chuẩn._
-
-![FHIR Bundle](https://www.hl7.org/fhir/assets/images/fhir-logo-www.png)
-
-### Giới thiệu về Bundle trong FHIR
+# Bundles & Transactions
 
 Bundle là một tài nguyên FHIR đặc biệt được sử dụng để nhóm nhiều tài nguyên thành một đơn vị duy nhất. Nó làm nhiều vai trò khác nhau, từ việc đóng gói kết quả tìm kiếm đến thực hiện nhiều thao tác trong một giao dịch duy nhất.
 

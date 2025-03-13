@@ -37,4 +37,4 @@
 ***
 
 * [Search](search.md)
-* [Bundles \&Transactions](bundles-and-transactions.md)
+* [Bundles & Transactions](bundles-and-transactions.md)
