@@ -39,3 +39,7 @@
 * [Search in FHIR R5](search-in-fhir-r5.md)
 * [Bundles & Transactions in FHIR R5](bundles-and-transactions-in-fhir-r5.md)
 * [Operations in FHIR R5](operations-in-fhir-r5.md)
+
+## 🧘‍♀️ FHIR R5 DATA STRUCTURE
+
+* [Data Types In FHIR R5](fhir-r5-data-structure/data-types-in-fhir-r5.md)
