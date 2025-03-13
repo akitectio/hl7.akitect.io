@@ -1,3 +1,7 @@
+---
+icon: strikethrough
+---
+
 # FHIRPath & FluentPath FHIR R5
 
 FHIRPath và FluentPath là những công cụ mạnh mẽ giúp bạn truy vấn, lọc và điều hướng trong dữ liệu FHIR. Trong bài viết này, chúng ta sẽ khám phá chi tiết cách sử dụng các công cụ quan trọng này trong FHIR R5, cùng với nhiều ví dụ thực tế.
