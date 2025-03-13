@@ -48,3 +48,4 @@
 
 * [Extensions & ElementDefinition](extensions-and-elementdefinition.md)
 * [Metadata & Control Elements](metadata-and-control-elements.md)
+* [Narrative & Text](narrative-and-text.md)
