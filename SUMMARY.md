@@ -79,3 +79,5 @@
 
 * [FHIR Messaging in R5](fhir-messaging-in-r5.md)
 * [Event-based Communication In FHIR R5](event-based-communication-in-fhir-r5.md)
+* [FHIR Documents In R5](fhir-documents-in-r5.md)
+* [GraphQL FHIR R5](graphql-fhir-r5.md)
