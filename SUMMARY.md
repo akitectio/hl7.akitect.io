@@ -74,3 +74,7 @@
 ## 🤦‍♂️ FHIR R5 Operations & Messaging
 
 * [Operations R5 Updates](fhir-r5-operations-and-messaging/operations-r5-updates.md)
+
+***
+
+* [FHIR Messaging in R5](fhir-messaging-in-r5.md)
