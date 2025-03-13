@@ -33,3 +33,7 @@
 ## 🏓 FHIR R5 Search & CRUD
 
 * [CRUD Operations](fhir-r5-search-and-crud/crud-operations.md)
+
+***
+
+* [Search](search.md)
