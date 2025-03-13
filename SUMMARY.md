@@ -32,10 +32,10 @@
 
 ## 🏓 FHIR R5 Search & CRUD
 
-* [CRUD Operations](fhir-r5-search-and-crud/crud-operations.md)
+* [CRUD Operations in FHIR R5](fhir-r5-search-and-crud/crud-operations-in-fhir-r5.md)
 
 ***
 
-* [Search](search.md)
-* [Bundles & Transactions](bundles-and-transactions.md)
+* [Search in FHIR R5](search-in-fhir-r5.md)
+* [Bundles & Transactions in FHIR R5](bundles-and-transactions-in-fhir-r5.md)
 * [Operations in FHIR R5](operations-in-fhir-r5.md)
