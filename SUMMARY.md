@@ -90,3 +90,4 @@
 
 * [Consent & Data Segmentation In FHIR R5](consent-and-data-segmentation-in-fhir-r5.md)
 * [Provenance & Audit](provenance-and-audit.md)
+* [FHIR Data Security](fhir-data-security.md)
