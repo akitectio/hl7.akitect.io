@@ -81,3 +81,7 @@
 * [Event-based Communication In FHIR R5](event-based-communication-in-fhir-r5.md)
 * [FHIR Documents In R5](fhir-documents-in-r5.md)
 * [GraphQL FHIR R5](graphql-fhir-r5.md)
+
+## 🔐 Security và Privacy In FHIR R5
+
+* [FHIR Security trong R5](security-va-privacy-in-fhir-r5/fhir-security-trong-r5.md)
