@@ -85,3 +85,8 @@
 ## 🔐 Security và Privacy In FHIR R5
 
 * [FHIR Security trong R5](security-va-privacy-in-fhir-r5/fhir-security-trong-r5.md)
+
+***
+
+* [Consent & Data Segmentation In FHIR R5](consent-and-data-segmentation-in-fhir-r5.md)
+* [Provenance & Audit](provenance-and-audit.md)
